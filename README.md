@@ -21,11 +21,7 @@ Sure (My code is released into the Public Domain. Visit [unlicense.org](https://
 
 Yes.
 
-## Is this all your work?
-
-HTML, CSS and JS are mine.
-
-I have also included (with many thanks):
+## I have also included (with many thanks):
 
 * Some [Windows 3.1 Icons](https://github.com/mRB0/many-windows-3.1-icons-in-png-format).
 * [W95FA font](https://fontsarena.com/w95fa-by-fontsarena/).
